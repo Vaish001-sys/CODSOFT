@@ -9,7 +9,7 @@ incorrect :- we can play the game again .
 
 Task 2:- Student grade calculator 
 
-In this we will have to prelare a report of the student . In which it's percentage, grade etc. will be displayed. 
+In this we will have to prepare a report of the student . In which it's percentage, grade etc. will be displayed. 
 
 Task 3:- ATM Interface 
 
